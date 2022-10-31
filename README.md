@@ -1,4 +1,3 @@
-[![MasterHead](https://res.cloudinary.com/cloudinary-marketing/images/c_fill,w_750/f_auto,q_auto/v1649720751/Web_Assets/blog/Mario_1/Mario_1-gif?_i=AA)]
 <h1 align="center">Hi 👋, I'm Rahat Sarker</h1>
 <h3 align="center">Web 3.0 | Programming | Digital Security Enthusiast | Blockchain</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
