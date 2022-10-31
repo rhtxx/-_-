@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **Cybersecurity**
 
-- 📫 How to reach me **rahat.sarker@northsouth.edu**
+- 📫 You can contact me at  **rahat.sarker@northsouth.edu**
 
 - ⚡ Fun fact **Ambivert**
 
