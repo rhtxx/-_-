@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <!-- @Author: Kwaku Amoh-Aboagye 
 @Github: ket-c
