@@ -1,29 +1,59 @@
-<h1 align="center">Hi 👋, I'm Rahat Sarker</h1>
-<h3 align="center">Web 3.0 | Programming | Digital Security Enthusiast | Blockchain</h3>
-- 🔭 I’m currently working on **Blockchain**
+<!DOCTYPE html>
+<html lang="en">
+<!-- @Author: Kwaku Amoh-Aboagye 
+@Github: ket-c
+-->
 
-- 🌱 I’m currently learning **Network Communication**
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> >_< - Rahat</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="assets/css/comingsoon.css">
+</head>
 
-- 👯 I’m looking to collaborate on **Cybersecurity**
 
-- 📫 You can contact me at  **rahat.sarker@northsouth.edu**
+<body class="bg-warning d-flex justify-content-center align-items-center vh-100">
+    <section>
+        <h1 class="text-center text-dark align-middle " style="font-size: 100px"> >_< </h1>
 
-- ⚡ Fun fact **Ambivert**
+        <div class="d-flex justify-content-center">
+            <!-- change width for your preference based on the image size -->
+            <img width="35%" src="assets/img/image.svg" alt="">
+        </div>
+        <div class="d-flex justify-content-center text-center">
+            <div class="grid p-2">
+                <p>_</p><b class="day"></b>
+            </div>
+            <div class="grid p-2">
+                <p>_</p><b class="hour"></b>
+            </div>
+            <div class="grid p-2">
+                <p>_</p><b class="minutes"></b>
+            </div>
+            <div class="grid p-2">
+                <p>_</p><b class="seconds"></b>
+            </div>
+        </div>
+        <div class="d-flex justify-content-center">
+            <code class="bg-white p-1">This website is under development</code>
+        </div>
+        <div class="text-center mt-5">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sarkermdrahat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarkermdrahat" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md-rahat-sarker-4a108820a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-rahat-sarker-4a108820a" height="30" width="40" /></a>
-<a href="https://fb.com/fortyone21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fortyone21" height="30" width="40" /></a>
-<a href="https://instagram.com/_rahatsarker_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rahatsarker_" height="30" width="40" /></a>
-</p>
+            Contact: <a class="text-dark underline m-0 " style="font-weight: bolder" href="#" target="_blank">rahat.sarker@northsouth.edu</a>
+            <p class="m-0"> Rahat Sarker</p>
+        </div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a><a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
-    
-<h1 class="education-heading">Education</h1>
-<a href="https://www.kent.edu/"> <h2 class="education-text-school">kent State University</h2></a><div class="education-text-details"><h4 class="education-text-subHeader">Bachelor of Science in Cybersecurity </h4><p class=" education-text-duration"> August 2022 - August 2026</p><p class="education-text-desc">kent, Ohio, USA</p>
-<a href="https://www.asu.edu/"> <h2 class="education-text-school">Arizona State University</h2></a><div class="education-text-details"><h4 class="education-text-subHeader">Bachelor of Science in Computer Science (Major in Software Engineering Online) </h4><p class=" education-text-duration">February 2022 - December 2022</p><p class="education-text-desc">Tempe, Arizona, USA</p>
-<a href="http://www.northsouth.edu/"><h2 class="education-text-school">North South University</h2></a><div class="education-text-details"><h4 class="education-text-subHeader">Bachelor of Science in Electronics and Telecommunication Engineering</h4><p class=" education-text-duration"> April 2022 - April 2026</p><p class="education-text-desc">Dhaka, Bangladesh</p> <div class="education-text-bullets"><ul></ul></div></div></div><a href="https://www.noormohammadcollege.ac.bd/"><h2 class="education-text-school">Birshreshtha Noor Mohammad Public College</h2></a><div class="education-text-details"><h4 class="education-text-subHeader">Higher Secondary</h4><p class=" education-text-duration">July 2019 - December 2021</p><p class="education-text-desc">Dhaka, Bangladesh</p><div class="education-text-bullets"><ul></ul></div></div></div></div><div class="react-reveal education-card-border"></div>
-<h3 align="left" id="languages-and-tools">Educational Resources:<a class="anchorjs-link " href="#languages-and-tools" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h3>
-</p>
+    </section>
+
+    <img src="" alt="">
+
+    <!-- Boostrap-->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+    <!-- Coming Soon JS with timer-->
+    <script src="assets/js/comingsoon.js">
+    </script>
+</body>
+
+</html>
